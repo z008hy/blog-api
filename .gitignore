@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-src/configs/
+src/configs/mongo.js
 dist
 npm-debug.log
 yarn-error.log
