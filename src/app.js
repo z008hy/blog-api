@@ -31,5 +31,6 @@ Object.keys(routers).forEach(name => {
 });
 
 app.listen(3000);
+console.log('项目启动成功');
 logUtil.infoLogger('项目启动成功！');
 
