@@ -6,7 +6,7 @@
   "scripts": {
     "start": "cross-env NODE_ENV=production node --inspect=19294 src/start.js",
     "dev": "nodemon --inspect-brk=19294 src/start.js",
-    "prod": "npm run build && npm start"
+    "pro": "node src/start.js"
   },
   "author": "",
   "license": "ISC",
